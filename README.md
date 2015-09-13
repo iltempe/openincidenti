@@ -1,6 +1,6 @@
 ### About
 
-An interactive map showing users of the [Leaflet](http://leaflet.cloudmade.com/) mapping library. 
+An interactive map mapping library for traffic accidents.
 
 ### Dependencies
 
